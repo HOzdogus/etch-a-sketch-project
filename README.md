@@ -1,1 +1,1 @@
-# etch-a-sketch-project
+From The Odin Project's Javascript and jQuery Curriculum (http://www.theodinproject.com/web-development-101/html-css)
